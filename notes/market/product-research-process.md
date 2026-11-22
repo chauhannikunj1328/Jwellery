@@ -133,6 +133,25 @@ Pick the top 1–2 ideas, start with 15–30 products, and expand from the best 
 
 ---
 
+## Research tools (checked 2026-11-22; prices and free limits change [verify])
+
+All volume and sales numbers from these tools are **estimates**. Cross-check
+important numbers in two tools.
+
+| Gap | Free | Paid (trusted) |
+|-----|------|----------------|
+| Trend discovery | Google Trends, Pinterest Trends, TikTok Creative Center | Exploding Topics, Glimpse (adds volume to Trends) |
+| Search volume | Google Keyword Planner | Semrush, Ahrefs; budget: Keywords Everywhere, Ubersuggest |
+| Etsy demand & competition | Etsy search + autocomplete | eRank (has free tier), EverBee |
+| Amazon demand & competition | Amazon Best Sellers / Movers & Shakers | Helium 10, Jungle Scout |
+| Competitor ads | Meta Ad Library, Google Ads Transparency Center, TikTok Creative Center | — |
+| Competitor website traffic | Similarweb (limited free) | Similarweb, Semrush |
+| Profit, duty, shipping | Shopify profit margin calculator, SimplyDuty, carrier rate calculators | Zonos (landed cost) |
+
+Starter stack (free): Google Trends + Keyword Planner + Pinterest Trends +
+Etsy/Amazon search + Meta Ad Library + SimplyDuty + our cost sheet.
+Add one paid tool only once the sales channel is decided.
+
 ## Checklist
 - [ ] 20–30 seed terms listed
 - [ ] Each term checked in Trends (5 years, worldwide + test countries, Shopping)
