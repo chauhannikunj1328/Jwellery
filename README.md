@@ -2,6 +2,9 @@
 
 Market and business research for the jewellery space.
 
+## Start here
+- `notes/launch-plan.md` – phased e-commerce launch plan and decisions log
+
 ## Structure
 - `notes/market/` – market size, trends, pricing, channels
 - `notes/competitors/` – one file per competitor (use `notes/competitors/_template.md`)
